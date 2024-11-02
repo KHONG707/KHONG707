@@ -36,7 +36,7 @@
    *Predicting river shapes globally using AI with US river measurement data. Integrated Digital Elevation Models (DEMs) to analyze river characteristics, enhancing predictions for flow velocity, depth, and shape.*  
    <details>
    <summary>Tech Stack:</summary>
-   Python, PyTorch, Pandas, DEM, Shapefiles
+   Python, PyTorch, Pandas, DEM, Shapefiles, QGIS
    </details>
 - **VR Simulation for Cleanrooms**  
    *Developed a VR simulation to illustrate cleanroom processes through immersive training experiences, incorporating adaptive AI for realistic interaction and feedback*
